@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Transfer Móvil team<br>
-👯 I’m looking to collaborate on a .Net project<br>
+👯 I’m looking to collaborate on a Python project<br>
 🌱 I’m currently learning Python<br>
 <br>
 ⚡ I like learning new technologies.!
